@@ -19,7 +19,8 @@ One PhD student’s curated list of 21 newsletters to help you keep up with AI n
 
 [Learning Principal Component Analysis by Using Data from Air Quality Networks](https://pubs.acs.org/doi/10.1021/acs.jchemed.6b00550)
 
-## comparison of models and observations
+## Comparison of models and observations
 
-[Alex's slides] (https://www.ukca.ac.uk/images/7/73/ATA_UKCA_Training_ModelEval.pdf)
+[Alex's slides](https://www.ukca.ac.uk/images/7/73/ATA_UKCA_Training_ModelEval.pdf)
 
+[Follow up from ATA - Root mean square error (RMSE) or mean absolute error (MAE): when to use them or not](https://gmd.copernicus.org/preprints/gmd-2022-64/)
