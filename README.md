@@ -1,4 +1,4 @@
-# data-driven-discussions
+# Summary docs from the data-driven-discussions
 
 ## Awesome papers on best practices 
 
