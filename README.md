@@ -4,6 +4,10 @@
 
 [Ten Simple Rules for a Computational Biologists Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385) - more about labbooks in general, but interesting.  Stern warning warning - "If you do not systematically archive changes, it will be very difficult or impossible to track the codes that you used to generate certain results. "
 
+
+
+[Joel Dudley's 2009 remarks on useful skills for bioinformatics have held up well](https://www.slideshare.net/jtdudley/tips-and-tricks-for-bioinformatics-software-engineering).  See also a gist of the talk [here](https://gist.github.com/paultgriffiths/8a7d044b92b292c4a557574bff5e7e4f).
+
 Who says nerds have no sense of humour?
 
 - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
