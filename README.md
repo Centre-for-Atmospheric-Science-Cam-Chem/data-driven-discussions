@@ -12,6 +12,9 @@ Who says nerds have no sense of humour?
 
 (The first of these has been cited considerably more than the second).
 
+If you have 10 USD spare, consider getting Jeff Leek's book 'How to be a Modern Scientist' - excerpts available [here](https://github.com/jtleek/books)
+
+
 ## Newsletters
 One PhD student’s curated list of 21 newsletters to help you keep up with AI news and research [Here](https://medium.com/@andreykurenkov/the-best-ai-newsletters-483dc75134b)
 
